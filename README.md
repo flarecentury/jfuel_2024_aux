@@ -56,6 +56,3 @@ To use this script:
    ```
 2. Replace 'filename.xyz' with the name of the .xyz file you want to visualize (e.g., 'R19P.xyz').
 3. Run the script in a Jupyter notebook or in an environment that supports nglview visualization.
-
-This will create an interactive 3D visualization of the molecular structure in the .xyz file.
-```
