@@ -1,6 +1,3 @@
-
-
-```markdown
 # XYZ File Extraction and Visualization
 
 This README provides instructions on how to extract compressed .xyz files and visualize them using Python libraries MDAnalysis and nglview.
