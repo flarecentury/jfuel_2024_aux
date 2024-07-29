@@ -1,6 +1,4 @@
-非常好，我会为您创建一个 README 文件，其中包含如何提取和可视化这些 .xyz 文件的说明。这个 README 将包括文件提取的 bash 命令和使用 MDAnalysis 和 nglview 进行可视化的 Python 代码。
 
-以下是 README.md 的内容：
 
 ```markdown
 # XYZ File Extraction and Visualization
